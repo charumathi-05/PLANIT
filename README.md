@@ -25,7 +25,7 @@ Generate questions
 🛠 Tech Stack: Streamlit, Groq API
  Terminal command : streamlit run chatpdf.py
 
-4️⃣ FocusFlow - Pomodoro Timer(by Charumathi Sri and Keerthi Lakshmi)
+4️⃣ FocusFlow - Pomodoro Timer(By Charumathi Sri and Keerthi Lakshmi)
 ⏳ Customize study/break timers with:
 Theme selection & custom backgrounds
 Integrated Spotify playlist
@@ -49,17 +49,17 @@ YouTube-guided relaxation sessions
 Advice cards to promote student well-being
 🛠 Tech Stack: HTML, CSS, JavaScript
 
-7️⃣ PeakPlanner - Personalized Timetable Generator(BY Charumathi Sri )
+7️⃣ PeakPlanner - Personalized Timetable Generator(By Charumathi Sri )
 📅 Generates an AI-personalized timetable based on the user's study preferences, ensuring efficient time management with breaks.
 🛠 Tech Stack: HTML, CSS, JavaScript, Google Gemini API
 
-8️⃣ ReviewRealm - Feedback System (By Varshini , charumathi , keerthi)
+8️⃣ ReviewRealm - Feedback System (By Varshini , Charumathi , Keerthi)
 📊 Gathers user feedback via Google Forms and presents graphical analytics on how much users like specific features.
 🛠 Tech Stack: Streamlit, Matplotlib
  Terminal command : 
 streamlit run graph.py
 
-9️⃣ CharityBridge - Social Impact (Future Scope)(Mrinmayi Verma,charumathi sri,varshini)
+9️⃣ CharityBridge - Social Impact (Future Scope)(Mrinmayi Verma,Charumathi sri,Varshini)
 🌟 Currently redirects users to NGOs for donations, with future plans for a student-led charity initiative.
 🛠 Tech Stack: HTML, CSS, JavaScript
 
